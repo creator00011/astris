@@ -32,4 +32,3 @@ NASA NeoWs:
 - API: `https://api.nasa.gov/neo/rest/v1/feed`
 - Documentation: `https://api.nasa.gov/`
 - The console displays the seven-day near-Earth-object count, potentially hazardous-object count, and nearest recorded approach.
-- If NASA is unavailable, the UI shows the unavailable state or the last cached NASA context.
